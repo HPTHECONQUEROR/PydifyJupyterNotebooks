@@ -3,6 +3,7 @@
 Even or Odd:
 Take a number from user and print whether it’s even or odd.
 
+
 Maximum of Three Numbers:
 Take 3 numbers as input and print which one is the largest.
 
