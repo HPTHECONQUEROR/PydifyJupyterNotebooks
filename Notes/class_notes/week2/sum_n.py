@@ -18,7 +18,7 @@
 n = int(input())
 load = 0
 for i in range(1,n+1): # 1 2 3 4
-    load = load + i
+    load += i
 
 # load + i = load
 # 0    + 1 = 1
