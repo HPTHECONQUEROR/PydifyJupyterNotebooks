@@ -1,0 +1,20 @@
+print("1-add")
+print("2-subtract")
+print("3-multiply")
+print("4-divide")
+cal=int(input("choose an operation:"))
+if (cal in [1,2,3,4]):
+    num1=int(input("enter a number:"))
+    num2=int(input("enter sec no:"))
+if (cal ==1):
+    result=num1+num2
+elif (cal==2):
+    result=num1-num2
+elif (cal==3):
+    result=num1*num2
+elif(cal==4):
+    result=num1/num2
+else:
+    print("invalid operation")
+print("the result of the operation is ", result)
+    
