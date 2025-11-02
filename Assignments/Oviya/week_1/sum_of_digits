@@ -1,12 +1,6 @@
-n=int(int("enter a number:"))
-sum=0
-if n=0:
-    sum=0
-else
-if n<0:
-    n=-n
-while n>0:
-    digit=n%10
-    sum=sum+digit
+n=423
+total=0
+while n>0: 
+    total=n%10+total
     n=n//10
-print("sum of digits is:",sum)
+print(total)
