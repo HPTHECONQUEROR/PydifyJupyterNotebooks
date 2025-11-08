@@ -1,6 +1,6 @@
-largest=int(input("enter the first number:"))
+max=int(input("enter the first number:"))
 for i in range(2):
    n=int(input("enter a number:"))
-   if n > largest: 
-     largest=num
-print("maximum of three numbers is ", largest)
+   if n > max: 
+     max=n
+print("maximum of three numbers is ", max)

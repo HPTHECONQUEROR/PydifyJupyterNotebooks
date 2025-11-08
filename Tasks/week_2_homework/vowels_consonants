@@ -1,0 +1,12 @@
+s=(input("enter a string:"))
+vowels='aeiou'
+v_count=0
+c_count=0
+for ch in s:
+    if ch.isalpha():
+        if ch.lower() in vowels:
+            v_count+=1
+        else:
+            c_count+=1
+print("vowels",v_count)
+print("consonants",c_count)
