@@ -6,7 +6,6 @@ Take a number from user and print whether it’s even or odd.
 
 Maximum of Three Numbers:
 Take 3 numbers as input and print which one is the largest.
-
 Sum of First N Numbers:
 Input a number n and print the sum from 1 to n.
 

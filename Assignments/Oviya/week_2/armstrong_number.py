@@ -1,5 +1,5 @@
 n=int(input("enter a number:"))
-temp=0
+temp=n
 sum=0
 while n>0:
     digit=n%10
