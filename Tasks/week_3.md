@@ -4,7 +4,7 @@ Create a tuple containing the numbers from 1 to 10. Use a slice to print the fir
 Create a tuple containing the names of five cities. Use the max() function to find the city with the longest name, and then use the min() function to find the city with the shortest name.
 
 
-Mini calci - +,-,*,/,//,**,%,
+Mini calci - +,-,*,/,//,**,%
 
 Write a function that takes a list of numbers as input and returns the sum of all the numbers in the list. Implement the solution using a for loop.
 
